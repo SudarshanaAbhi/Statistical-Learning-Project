@@ -1,3 +1,6 @@
+#Script: Abhinand S.
+#Covid-19 patient clinical data analysis
+
 data <- as.data.frame(covid_data)
 firstcols <- data[,1:16]
 lastcols <- data[,130:135]
